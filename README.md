@@ -7,7 +7,7 @@ The main features of this Quran Player website are:
 - Automatic play of selected surah
 - Simple and easy-to-use interface
 - Responsive design that works on desktop and mobile devices
-- Uses Fontawesome for icons
+- To click next and previous button to change surah
 
 ## Technologies Used
 This website was created using the following technologies:
