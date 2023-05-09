@@ -6,6 +6,7 @@ The main features of this Quran Player website are:
 - Listen to all 114 surahs from the Holy Quran
 - Automatic play of selected surah
 - Simple and easy-to-use interface
+- Responsive design that works on desktop and mobile devices
 - Uses Fontawesome for icons
 
 ## Technologies Used
